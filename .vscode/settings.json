@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "java.format.settings.url": "C:/Users/Anna/Downloads/VSCodeUserSetup-x64-1.99.0.exe",
+  "java.format.settings.profile": "VSCodeUserSetup"
+}
