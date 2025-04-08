@@ -3,5 +3,12 @@
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"],
   "java.format.settings.url": "C:/Users/Anna/Downloads/VSCodeUserSetup-x64-1.99.0.exe",
-  "java.format.settings.profile": "VSCodeUserSetup"
+  "java.format.settings.profile": "VSCodeUserSetup",
+  "editor.formatOnType": true,
+  "java.completion.enabled": true,
+  "java.completion.guessMethodArguments": true,
+  "java.completion.favoriteStaticMembers": [
+    "java.util.Arrays.*",
+    "java.util.Collections.*"
+  ]
 }
